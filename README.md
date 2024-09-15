@@ -1,2 +1,2 @@
 # Greatest-Digit-Code-
-Greatest Digit (logicala operator)
+Greatest Digit (logical operator)
